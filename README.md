@@ -29,7 +29,7 @@ Create a clean and centered login layout
 
 ---
 
-###Screenshot :
-![Login Page Screenshot](./screenshot.png)
+### Screenshot :
+![Login Page Screenshot](./Screenshot.png)
 
 
